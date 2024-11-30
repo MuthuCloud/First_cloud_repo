@@ -1,3 +1,0 @@
-this is test2.txt file created for testing purpose
-
-added lines for requirement
